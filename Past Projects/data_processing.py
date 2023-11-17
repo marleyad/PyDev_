@@ -22,4 +22,3 @@ else:
 
 input6 = len(input("Please enter a string so I can output its length: "))
 print(input6)
-
