@@ -73,4 +73,4 @@ def calculate_code_time(morning_minutes, evening_hours, evening_minutes):
     round_total_hours = round(total_hours, 2)
     return f"\n        *****Congratulations!*****\n\nYou have studied for {total_minutes} minutes OR {round_total_hours} hours\n"
 
-print(calculate_code_time(20, 1, 55))
+print(calculate_code_time(20, 1, 15))
